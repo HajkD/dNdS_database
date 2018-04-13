@@ -1,0 +1,16 @@
+File Name: Homo_sapiens_cds_from_genomic_refseq.fna.gz
+Organism Name: Homo_sapiens
+Database: NCBI refseq
+URL: ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.38_GRCh38.p12/GCF_000001405.38_GRCh38.p12_cds_from_genomic.fna.gz
+Download_Date: Wed Apr 11 14:01:26 2018
+refseq_category: reference genome
+assembly_accession: GCF_000001405.38
+bioproject: PRJNA168
+biosample: NA
+taxid: 9606
+infraspecific_name: NA
+version_status: latest
+release_type: Patch
+genome_rep: Full
+seq_rel_date: 2017-12-21
+submitter: Genome Reference Consortium
