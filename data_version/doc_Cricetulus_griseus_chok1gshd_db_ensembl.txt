@@ -1,0 +1,9 @@
+File Name: Ensembl/Cricetulus_griseus_chok1gshd.CHOK1GS_HDv1.cds.all.fa.gz
+Organism Name: Cricetulus_griseus_chok1gshd
+Database: ensembl
+Download_Date: Fri Apr 13 16:38:55 2018
+assembly_name: CHOK1GS_HDv1
+assembly_date: 2017-02
+genebuild_last_geneset_update: 2017-09
+assembly_accession: GCA_900186095.1
+genebuild_initial_release_date: 2017-08

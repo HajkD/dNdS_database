@@ -1,0 +1,9 @@
+File Name: Ensembl/Dasypus_novemcinctus.Dasnov3.0.cds.all.fa.gz
+Organism Name: Dasypus_novemcinctus
+Database: ensembl
+Download_Date: Fri Apr 13 16:44:26 2018
+assembly_name: Dasnov3.0
+assembly_date: 2011-12
+genebuild_last_geneset_update: 2016-05
+assembly_accession: GCA_000208655.2
+genebuild_initial_release_date: 2013-12

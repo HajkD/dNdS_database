@@ -1,0 +1,9 @@
+File Name: Ensembl/Anolis_carolinensis.AnoCar2.0.cds.all.fa.gz
+Organism Name: Anolis_carolinensis
+Database: ensembl
+Download_Date: Fri Apr 13 16:34:05 2018
+assembly_name: AnoCar2.0
+assembly_date: 2010-05
+genebuild_last_geneset_update: 2016-07
+assembly_accession: GCA_000090745.1
+genebuild_initial_release_date: 2010-12

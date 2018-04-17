@@ -1,0 +1,9 @@
+File Name: Ensembl/Otolemur_garnettii.OtoGar3.cds.all.fa.gz
+Organism Name: Otolemur_garnettii
+Database: ensembl
+Download_Date: Fri Apr 13 16:33:13 2018
+assembly_name: OtoGar3
+assembly_date: 2011-03
+genebuild_last_geneset_update: 2011-12
+assembly_accession: GCA_000181295.3
+genebuild_initial_release_date: 2011-12

@@ -1,0 +1,9 @@
+File Name: Ensembl/Echinops_telfairi.TENREC.cds.all.fa.gz
+Organism Name: Echinops_telfairi
+Database: ensembl
+Download_Date: Fri Apr 13 16:48:43 2018
+assembly_name: TENREC
+assembly_date: 2005-07
+genebuild_last_geneset_update: 2013-04
+assembly_accession: 
+genebuild_initial_release_date: 2006-08

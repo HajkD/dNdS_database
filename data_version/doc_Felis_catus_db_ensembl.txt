@@ -1,0 +1,9 @@
+File Name: Ensembl/Felis_catus.Felis_catus_8.0.cds.all.fa.gz
+Organism Name: Felis_catus
+Database: ensembl
+Download_Date: Fri Apr 13 16:52:20 2018
+assembly_name: Felis_catus_8.0
+assembly_date: 2014-11
+genebuild_last_geneset_update: 2017-12
+assembly_accession: GCA_000181335.3
+genebuild_initial_release_date: 2017-12

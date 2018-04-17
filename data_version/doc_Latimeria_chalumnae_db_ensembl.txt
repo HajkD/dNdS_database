@@ -1,0 +1,9 @@
+File Name: Ensembl/Latimeria_chalumnae.LatCha1.cds.all.fa.gz
+Organism Name: Latimeria_chalumnae
+Database: ensembl
+Download_Date: Fri Apr 13 16:47:41 2018
+assembly_name: LatCha1
+assembly_date: 2011-09
+genebuild_last_geneset_update: 2012-11
+assembly_accession: GCA_000225785.1
+genebuild_initial_release_date: 2011-10

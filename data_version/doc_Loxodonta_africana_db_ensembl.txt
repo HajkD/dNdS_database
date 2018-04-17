@@ -1,0 +1,9 @@
+File Name: Ensembl/Loxodonta_africana.loxAfr3.cds.all.fa.gz
+Organism Name: Loxodonta_africana
+Database: ensembl
+Download_Date: Fri Apr 13 16:52:37 2018
+assembly_name: Loxafr3.0
+assembly_date: 2009-07
+genebuild_last_geneset_update: 2011-12
+assembly_accession: GCA_000001905.1
+genebuild_initial_release_date: 2010-03

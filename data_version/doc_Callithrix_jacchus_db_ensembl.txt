@@ -1,0 +1,9 @@
+File Name: Ensembl/Callithrix_jacchus.ASM275486v1.cds.all.fa.gz
+Organism Name: Callithrix_jacchus
+Database: ensembl
+Download_Date: Fri Apr 13 16:39:41 2018
+assembly_name: ASM275486v1
+assembly_date: 2017-11
+genebuild_last_geneset_update: 2018-01
+assembly_accession: GCA_002754865.1
+genebuild_initial_release_date: 2018-01

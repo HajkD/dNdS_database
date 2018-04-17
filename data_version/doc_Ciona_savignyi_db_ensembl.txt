@@ -1,0 +1,9 @@
+File Name: Ensembl/Ciona_savignyi.CSAV2.0.cds.all.fa.gz
+Organism Name: Ciona_savignyi
+Database: ensembl
+Download_Date: Fri Apr 13 16:43:32 2018
+assembly_name: CSAV 2.0
+assembly_date: 2005-10
+genebuild_last_geneset_update: 2013-04
+assembly_accession: 
+genebuild_initial_release_date: 2006-06

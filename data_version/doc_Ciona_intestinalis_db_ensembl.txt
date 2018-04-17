@@ -1,0 +1,9 @@
+File Name: Ensembl/Ciona_intestinalis.KH.cds.all.fa.gz
+Organism Name: Ciona_intestinalis
+Database: ensembl
+Download_Date: Fri Apr 13 16:43:22 2018
+assembly_name: KH
+assembly_date: 2011-04
+genebuild_last_geneset_update: 2014-03
+assembly_accession: GCA_000224145.1
+genebuild_initial_release_date: 2012-03

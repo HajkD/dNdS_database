@@ -1,0 +1,9 @@
+File Name: Ensembl/Xenopus_tropicalis.JGI_4.2.cds.all.fa.gz
+Organism Name: Xenopus_tropicalis
+Database: ensembl
+Download_Date: Fri Apr 13 16:40:01 2018
+assembly_name: JGI 4.2
+assembly_date: 2009-11
+genebuild_last_geneset_update: 2013-04
+assembly_accession: GCA_000004195.1
+genebuild_initial_release_date: 2011-02

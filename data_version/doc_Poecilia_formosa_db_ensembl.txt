@@ -1,0 +1,9 @@
+File Name: Ensembl/Poecilia_formosa.PoeFor_5.1.2.cds.all.fa.gz
+Organism Name: Poecilia_formosa
+Database: ensembl
+Download_Date: Fri Apr 13 16:43:30 2018
+assembly_name: Poecilia_formosa-5.1.2
+assembly_date: 2013-10
+genebuild_last_geneset_update: 2014-08
+assembly_accession: GCA_000485575.1
+genebuild_initial_release_date: 2014-07

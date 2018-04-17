@@ -1,0 +1,9 @@
+File Name: Ensembl/Gallus_gallus.Gallus_gallus-5.0.cds.all.fa.gz
+Organism Name: Gallus_gallus
+Database: ensembl
+Download_Date: Fri Apr 13 16:42:56 2018
+assembly_name: Gallus_gallus-5.0
+assembly_date: 2015-12
+genebuild_last_geneset_update: 2016-12
+assembly_accession: GCA_000002315.3
+genebuild_initial_release_date: 2016-10

@@ -1,0 +1,9 @@
+File Name: Ensembl/Procavia_capensis.proCap1.cds.all.fa.gz
+Organism Name: Procavia_capensis
+Database: ensembl
+Download_Date: Fri Apr 13 16:42:23 2018
+assembly_name: proCap1
+assembly_date: 2008-07
+genebuild_last_geneset_update: 2013-04
+assembly_accession: 
+genebuild_initial_release_date: 2009-02

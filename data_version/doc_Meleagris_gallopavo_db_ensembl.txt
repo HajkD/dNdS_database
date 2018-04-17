@@ -1,0 +1,9 @@
+File Name: Ensembl/Meleagris_gallopavo.UMD2.cds.all.fa.gz
+Organism Name: Meleagris_gallopavo
+Database: ensembl
+Download_Date: Fri Apr 13 16:50:31 2018
+assembly_name: Turkey_2.01
+assembly_date: 2010-09
+genebuild_last_geneset_update: 2014-04
+assembly_accession: GCA_000146605.1
+genebuild_initial_release_date: 2010-12

@@ -1,0 +1,9 @@
+File Name: Ensembl/Gorilla_gorilla.gorGor4.cds.all.fa.gz
+Organism Name: Gorilla_gorilla
+Database: ensembl
+Download_Date: Fri Apr 13 16:48:00 2018
+assembly_name: gorGor4
+assembly_date: 2014-12
+genebuild_last_geneset_update: 2018-01
+assembly_accession: GCA_000151905.3
+genebuild_initial_release_date: 2017-12

@@ -1,0 +1,9 @@
+File Name: Ensembl/Cebus_capucinus.Cebus_imitator-1.0.cds.all.fa.gz
+Organism Name: Cebus_capucinus
+Database: ensembl
+Download_Date: Fri Apr 13 16:50:54 2018
+assembly_name: Cebus_imitator-1.0
+assembly_date: 2016-04
+genebuild_last_geneset_update: 2018-01
+assembly_accession: GCA_001604975.1
+genebuild_initial_release_date: 2017-12

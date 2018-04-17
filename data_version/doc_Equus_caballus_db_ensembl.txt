@@ -1,0 +1,9 @@
+File Name: Ensembl/Equus_caballus.EquCab2.cds.all.fa.gz
+Organism Name: Equus_caballus
+Database: ensembl
+Download_Date: Fri Apr 13 16:46:34 2018
+assembly_name: Equ Cab 2
+assembly_date: 2007-09
+genebuild_last_geneset_update: 2012-11
+assembly_accession: GCA_000002305.1
+genebuild_initial_release_date: 2008-03

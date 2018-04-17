@@ -1,0 +1,9 @@
+File Name: Ensembl/Oryzias_latipes.MEDAKA1.cds.all.fa.gz
+Organism Name: Oryzias_latipes
+Database: ensembl
+Download_Date: Fri Apr 13 16:42:27 2018
+assembly_name: HdrR
+assembly_date: 2005-10
+genebuild_last_geneset_update: 2013-04
+assembly_accession: 
+genebuild_initial_release_date: 2006-10

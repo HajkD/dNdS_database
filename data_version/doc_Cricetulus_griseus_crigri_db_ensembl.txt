@@ -1,0 +1,9 @@
+File Name: Ensembl/Cricetulus_griseus_crigri.CriGri_1.0.cds.all.fa.gz
+Organism Name: Cricetulus_griseus_crigri
+Database: ensembl
+Download_Date: Fri Apr 13 16:45:41 2018
+assembly_name: CriGri_1.0
+assembly_date: 2011-08
+genebuild_last_geneset_update: 2017-07
+assembly_accession: GCA_000223135.1
+genebuild_initial_release_date: 2017-07

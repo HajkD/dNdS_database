@@ -1,0 +1,9 @@
+File Name: Ensembl/Fukomys_damarensis.DMR_v1.0.cds.all.fa.gz
+Organism Name: Fukomys_damarensis
+Database: ensembl
+Download_Date: Fri Apr 13 16:37:48 2018
+assembly_name: DMR_v1.0
+assembly_date: 2014-09
+genebuild_last_geneset_update: 2017-02
+assembly_accession: GCA_000743615.1
+genebuild_initial_release_date: 2017-02

@@ -1,0 +1,9 @@
+File Name: Ensembl/Bos_taurus.UMD3.1.cds.all.fa.gz
+Organism Name: Bos_taurus
+Database: ensembl
+Download_Date: Fri Apr 13 16:35:57 2018
+assembly_name: UMD3.1
+assembly_date: 2009-11
+genebuild_last_geneset_update: 2011-09
+assembly_accession: GCA_000003055.3
+genebuild_initial_release_date: 2011-09

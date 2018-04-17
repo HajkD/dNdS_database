@@ -1,0 +1,9 @@
+File Name: Ensembl/Oreochromis_niloticus.Orenil1.0.cds.all.fa.gz
+Organism Name: Oreochromis_niloticus
+Database: ensembl
+Download_Date: Fri Apr 13 16:48:08 2018
+assembly_name: Orenil1.0
+assembly_date: 2011-01
+genebuild_last_geneset_update: 2016-10
+assembly_accession: GCA_000188235.1
+genebuild_initial_release_date: 2012-03

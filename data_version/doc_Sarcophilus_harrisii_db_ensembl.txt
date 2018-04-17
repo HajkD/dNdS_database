@@ -1,0 +1,9 @@
+File Name: Ensembl/Sarcophilus_harrisii.DEVIL7.0.cds.all.fa.gz
+Organism Name: Sarcophilus_harrisii
+Database: ensembl
+Download_Date: Fri Apr 13 16:45:59 2018
+assembly_name: Devil_ref v7.0
+assembly_date: 2011-03
+genebuild_last_geneset_update: 2011-12
+assembly_accession: GCA_000189315.1
+genebuild_initial_release_date: 2011-09

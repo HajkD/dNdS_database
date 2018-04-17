@@ -1,0 +1,9 @@
+File Name: Ensembl/Ovis_aries.Oar_v3.1.cds.all.fa.gz
+Organism Name: Ovis_aries
+Database: ensembl
+Download_Date: Fri Apr 13 16:36:32 2018
+assembly_name: Oar_v3.1
+assembly_date: 2012-08
+genebuild_last_geneset_update: 2015-05
+assembly_accession: GCA_000298735.1
+genebuild_initial_release_date: 2013-12

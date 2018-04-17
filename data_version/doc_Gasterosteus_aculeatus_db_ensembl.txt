@@ -1,0 +1,9 @@
+File Name: Ensembl/Gasterosteus_aculeatus.BROADS1.cds.all.fa.gz
+Organism Name: Gasterosteus_aculeatus
+Database: ensembl
+Download_Date: Fri Apr 13 16:47:51 2018
+assembly_name: BROAD S1
+assembly_date: 2006-02
+genebuild_last_geneset_update: 2010-05
+assembly_accession: 
+genebuild_initial_release_date: 2006-08

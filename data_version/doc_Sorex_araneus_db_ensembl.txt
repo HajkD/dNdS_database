@@ -1,0 +1,9 @@
+File Name: Ensembl/Sorex_araneus.COMMON_SHREW1.cds.all.fa.gz
+Organism Name: Sorex_araneus
+Database: ensembl
+Download_Date: Fri Apr 13 16:44:08 2018
+assembly_name: sorAra1
+assembly_date: 2005-10
+genebuild_last_geneset_update: 2010-05
+assembly_accession: 
+genebuild_initial_release_date: 2007-06

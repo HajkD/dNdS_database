@@ -1,0 +1,9 @@
+File Name: Ensembl/Ficedula_albicollis.FicAlb_1.4.cds.all.fa.gz
+Organism Name: Ficedula_albicollis
+Database: ensembl
+Download_Date: Fri Apr 13 16:38:30 2018
+assembly_name: FicAlb_1.4
+assembly_date: 2012-01
+genebuild_last_geneset_update: 2016-07
+assembly_accession: GCA_000247815.1
+genebuild_initial_release_date: 2013-09

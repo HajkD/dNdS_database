@@ -1,0 +1,9 @@
+File Name: Ensembl/Mus_musculus_129s1svimj.129S1_SvImJ_v1.cds.all.fa.gz
+Organism Name: Mus_musculus_129s1svimj
+Database: ensembl
+Download_Date: Fri Apr 13 16:40:46 2018
+assembly_name: 129S1_SvImJ_v1
+assembly_date: 2016-04
+genebuild_last_geneset_update: 2018-01
+assembly_accession: GCA_001624185.1
+genebuild_initial_release_date: 2016-10

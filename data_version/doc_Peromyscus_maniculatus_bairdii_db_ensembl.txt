@@ -1,0 +1,9 @@
+File Name: Ensembl/Peromyscus_maniculatus_bairdii.Pman_1.0.cds.all.fa.gz
+Organism Name: Peromyscus_maniculatus_bairdii
+Database: ensembl
+Download_Date: Fri Apr 13 16:38:24 2018
+assembly_name: Pman_1.0
+assembly_date: 2013-12
+genebuild_last_geneset_update: 2017-02
+assembly_accession: GCA_000500345.1
+genebuild_initial_release_date: 2017-02

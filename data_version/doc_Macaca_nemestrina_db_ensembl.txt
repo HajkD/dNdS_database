@@ -1,0 +1,9 @@
+File Name: Ensembl/Macaca_nemestrina.Mnem_1.0.cds.all.fa.gz
+Organism Name: Macaca_nemestrina
+Database: ensembl
+Download_Date: Fri Apr 13 16:47:25 2018
+assembly_name: Mnem_1.0
+assembly_date: 2015-03
+genebuild_last_geneset_update: 2018-01
+assembly_accession: GCA_000956065.1
+genebuild_initial_release_date: 2017-12

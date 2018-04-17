@@ -1,0 +1,9 @@
+File Name: Ensembl/Cavia_porcellus.Cavpor3.0.cds.all.fa.gz
+Organism Name: Cavia_porcellus
+Database: ensembl
+Download_Date: Fri Apr 13 16:40:53 2018
+assembly_name: Cavpor3.0
+assembly_date: 2008-03
+genebuild_last_geneset_update: 2017-07
+assembly_accession: GCA_000151735.1
+genebuild_initial_release_date: 2017-07

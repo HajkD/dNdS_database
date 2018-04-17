@@ -1,0 +1,9 @@
+File Name: Ensembl/Macaca_mulatta.Mmul_8.0.1.cds.all.fa.gz
+Organism Name: Macaca_mulatta
+Database: ensembl
+Download_Date: Fri Apr 13 16:47:11 2018
+assembly_name: Mmul_8.0.1
+assembly_date: 2015-11
+genebuild_last_geneset_update: 2016-10
+assembly_accession: GCA_000772875.3
+genebuild_initial_release_date: 2016-10

@@ -1,0 +1,9 @@
+File Name: Ensembl/Astyanax_mexicanus.AstMex102.cds.all.fa.gz
+Organism Name: Astyanax_mexicanus
+Database: ensembl
+Download_Date: Fri Apr 13 16:38:13 2018
+assembly_name: AstMex102
+assembly_date: 2013-04
+genebuild_last_geneset_update: 2016-07
+assembly_accession: GCA_000372685.1
+genebuild_initial_release_date: 2013-12

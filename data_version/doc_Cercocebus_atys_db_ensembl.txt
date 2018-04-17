@@ -1,0 +1,9 @@
+File Name: Ensembl/Cercocebus_atys.Caty_1.0.cds.all.fa.gz
+Organism Name: Cercocebus_atys
+Database: ensembl
+Download_Date: Fri Apr 13 16:49:49 2018
+assembly_name: Caty_1.0
+assembly_date: 2015-03
+genebuild_last_geneset_update: 2018-01
+assembly_accession: GCA_000955945.1
+genebuild_initial_release_date: 2017-12

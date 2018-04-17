@@ -1,0 +1,9 @@
+File Name: Ensembl/Rhinopithecus_bieti.ASM169854v1.cds.all.fa.gz
+Organism Name: Rhinopithecus_bieti
+Database: ensembl
+Download_Date: Fri Apr 13 16:42:46 2018
+assembly_name: ASM169854v1
+assembly_date: 2016-08
+genebuild_last_geneset_update: 2018-01
+assembly_accession: GCA_001698545.1
+genebuild_initial_release_date: 2017-12

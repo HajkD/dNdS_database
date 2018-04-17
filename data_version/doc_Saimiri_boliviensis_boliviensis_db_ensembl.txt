@@ -1,0 +1,9 @@
+File Name: Ensembl/Saimiri_boliviensis_boliviensis.SaiBol1.0.cds.all.fa.gz
+Organism Name: Saimiri_boliviensis_boliviensis
+Database: ensembl
+Download_Date: Fri Apr 13 16:43:20 2018
+assembly_name: SaiBol1.0
+assembly_date: 2011-11
+genebuild_last_geneset_update: 2018-01
+assembly_accession: GCA_000235385.1
+genebuild_initial_release_date: 2017-12

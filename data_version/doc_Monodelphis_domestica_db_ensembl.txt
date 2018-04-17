@@ -1,0 +1,9 @@
+File Name: Ensembl/Monodelphis_domestica.monDom5.cds.all.fa.gz
+Organism Name: Monodelphis_domestica
+Database: ensembl
+Download_Date: Fri Apr 13 16:35:58 2018
+assembly_name: monDom5
+assembly_date: 2006-10
+genebuild_last_geneset_update: 2016-10
+assembly_accession: GCF_000002295.2
+genebuild_initial_release_date: 2007-04

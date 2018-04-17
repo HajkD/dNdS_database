@@ -1,0 +1,9 @@
+File Name: Ensembl/Myotis_lucifugus.Myoluc2.0.cds.all.fa.gz
+Organism Name: Myotis_lucifugus
+Database: ensembl
+Download_Date: Fri Apr 13 16:43:37 2018
+assembly_name: Myoluc2.0
+assembly_date: 2010-09
+genebuild_last_geneset_update: 2011-06
+assembly_accession: GCA_000147115.1
+genebuild_initial_release_date: 2011-06

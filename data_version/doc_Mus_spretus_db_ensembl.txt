@@ -1,0 +1,9 @@
+File Name: Ensembl/Mus_spretus.SPRET_EiJ_v1.cds.all.fa.gz
+Organism Name: Mus_spretus
+Database: ensembl
+Download_Date: Fri Apr 13 16:47:48 2018
+assembly_name: SPRET_EiJ_v1
+assembly_date: 2016-07
+genebuild_last_geneset_update: 2018-01
+assembly_accession: GCA_001624865.1
+genebuild_initial_release_date: 2016-09

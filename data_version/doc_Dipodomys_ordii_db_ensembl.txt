@@ -1,0 +1,9 @@
+File Name: Ensembl/Dipodomys_ordii.Dord_2.0.cds.all.fa.gz
+Organism Name: Dipodomys_ordii
+Database: ensembl
+Download_Date: Fri Apr 13 16:39:12 2018
+assembly_name: Dord_2.0
+assembly_date: 2014-12
+genebuild_last_geneset_update: 2017-07
+assembly_accession: GCA_000151885.2
+genebuild_initial_release_date: 2017-07

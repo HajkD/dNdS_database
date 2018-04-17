@@ -1,0 +1,9 @@
+File Name: Ensembl/Gadus_morhua.gadMor1.cds.all.fa.gz
+Organism Name: Gadus_morhua
+Database: ensembl
+Download_Date: Fri Apr 13 16:34:59 2018
+assembly_name: gadMor1
+assembly_date: 2010-01
+genebuild_last_geneset_update: 2011-08
+assembly_accession: 
+genebuild_initial_release_date: 2011-08

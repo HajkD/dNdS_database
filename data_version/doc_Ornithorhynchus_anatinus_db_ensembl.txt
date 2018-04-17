@@ -1,0 +1,9 @@
+File Name: Ensembl/Ornithorhynchus_anatinus.OANA5.cds.all.fa.gz
+Organism Name: Ornithorhynchus_anatinus
+Database: ensembl
+Download_Date: Fri Apr 13 16:49:40 2018
+assembly_name: OANA5
+assembly_date: 2005-12
+genebuild_last_geneset_update: 2016-10
+assembly_accession: GCF_000002275.2
+genebuild_initial_release_date: 2007-08

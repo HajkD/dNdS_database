@@ -1,0 +1,9 @@
+File Name: Ensembl/Sus_scrofa.Sscrofa11.1.cds.all.fa.gz
+Organism Name: Sus_scrofa
+Database: ensembl
+Download_Date: Fri Apr 13 16:45:44 2018
+assembly_name: Sscrofa11.1
+assembly_date: 2016-12
+genebuild_last_geneset_update: 2017-06
+assembly_accession: GCA_000003025.6
+genebuild_initial_release_date: 2017-07

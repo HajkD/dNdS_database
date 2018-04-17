@@ -1,0 +1,9 @@
+File Name: Ensembl/Tursiops_truncatus.turTru1.cds.all.fa.gz
+Organism Name: Tursiops_truncatus
+Database: ensembl
+Download_Date: Fri Apr 13 16:35:52 2018
+assembly_name: turTru1
+assembly_date: 2008-07
+genebuild_last_geneset_update: 2013-04
+assembly_accession: 
+genebuild_initial_release_date: 2009-02
