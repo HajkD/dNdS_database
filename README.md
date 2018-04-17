@@ -13,7 +13,7 @@ Please cite the `orthologr` publication when using any of the `dN/dS` maps for y
 E.g. by referring to orthologr:
 
 > "Synonymous versus non-synonymous substitution rates between species X and species Y were calculated using the R package orthologr (Drost et al., 2015)
-using the parameter configuration `ortho_detection = "RBH"`, `aa_aln_type = "pairwise"`, `aa_aln_tool = "NW"`, `codon_aln_tool = "pal2nal"`, and `dnds_est.method = "Comeron"`."
+using the parameter configuration `eval = 1E-5`, `ortho_detection = "RBH"`, `aa_aln_type = "pairwise"`, `aa_aln_tool = "NW"`, `codon_aln_tool = "pal2nal"`, and `dnds_est.method = "Comeron"`."
 
 The computationally reproducible scripts used to generate each `dNdS map` can be found at [/reproducible_scripts/](/reproducible_scripts/).
 
